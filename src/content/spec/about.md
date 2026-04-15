@@ -1,23 +1,30 @@
-# 关于后厨
+# 🍳 关于神秘小厨房
 
-嘿，我是 **拔丝呱呱ovo**，这里是我的隐秘后厨。
+你好，我是 **拔丝呱呱ovo**。欢迎推开这扇半掩的门，这里是我的**神秘小厨房**。
 
-白天写 bug，晚上修 bug。平时喜欢折腾各种技术栈，偶尔产出一些能吃的代码。
+白天我在代码的案板上切配逻辑，晚上则围着灶台转，专心 **熬 bug**。这里不提供山珍海味，只有我亲手折腾出的几道家常技术菜，但愿合你胃口。
 
-## 后厨菜单
+## 📋 菜单
 
-- **小火慢炖 error**：记录踩坑与调试的心路历程。
-- **大火爆炒 bug**：分享一些快速解决的技术小技巧。
+- **🍲 小火慢炖 error**  
+  那些熬到深夜的排错记录，文火慢煨，把踩过的坑熬成一锅浓郁的心得汤。
 
-## 找到我
+- **🔥 大火爆炒 bug**  
+  锅气十足的实战技巧，快刀斩乱麻的解决方案，主打一个趁热食用。
 
-- Bilibili: [@拔丝呱呱ovo](https://space.bilibili.com/89347800)
-- GitHub: [@ovo80](https://github.com/ovo80)
+## 📬 敲门暗号
 
-## 本站技术栈
+如果想看看我的菜篮子或者隔空喊话，欢迎来这儿找我：
 
-- 框架：[Astro](https://astro.build/)
-- 主题：[Fuwari](https://github.com/saicaca/fuwari)
-- 托管：[Cloudflare](https://cloudflare.com/)
+- **Bilibili（看剧下饭）**：[拔丝呱呱ovo](https://space.bilibili.com/89347800)
+- **GitHub（食材仓库）**：[ovo80](https://github.com/ovo80)
 
-欢迎常来后厨转转，说不定能捞到点干货。🍳
+## 🛠️ 厨房基建
+
+这个厨房由以下现代炊具搭建而成，特此鸣谢：
+
+- **灶台框架**：[Astro](https://astro.build/)
+- **主题皮肤**：[Fuwari](https://github.com/saicaca/fuwari)
+- **传菜伙计**：[Cloudflare](https://cloudflare.com/)
+
+灶台一直是热的，欢迎常来转转，兴许能捞到几块刚出锅的干货。
