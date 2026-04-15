@@ -1,7 +1,7 @@
 ---
 title: "这博客是怎么炖出来的"
 published: 2026-04-16
-description: "从一口锅都没有，到后厨开张的全记录。"
+description: "从一口锅都没有，到神秘小厨房开张的全记录。"
 image: "./img.png"
 tags: ["博客搭建", "Astro", "Cloudflare", "折腾"]
 category: "技术"
