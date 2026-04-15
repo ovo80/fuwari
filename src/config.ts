@@ -8,7 +8,7 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "拔丝呱呱ovo的隐秘后厨",
+	title: "拔丝呱呱ovo的神秘小厨房",
 	subtitle: "小火慢炖 error，大火爆炒 bug。",
 	lang: "zh_CN", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
